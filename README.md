@@ -1,8 +1,8 @@
 # Bake-Off
 Explores process of selecting best methods for time series prediction in chaotic systems.
 
-'OSA' employess 36 simple autoregressive methods to forecast number of state-based attacks across 32 countries.
-The question is `How do we know which method to choose for future prediction?'
+`OSA` employess 36 simple autoregressive methods to forecast number of state-based attacks across 32 countries.
+The question is "How do we know which method to choose for future prediction?"
 We show how the employment of a validation period to select a method outperforms the random choice of a model or using no model at all.
 
 We train 36 autoregressive methods proposed by Takens (1), each based on number of lags, from 1 to 36.
