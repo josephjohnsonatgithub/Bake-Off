@@ -1,5 +1,5 @@
 # Bake-Off
-Explores process of selecting best methods for time series prediction in chaotic systems.
+Explores process of selecting best methods for time series prediction in chaotic systems. The time-series are deaths by month due to state-based violence. They are acyclical and generally non-stationary. We focus on the use of validation sets to improve performance (no transformations, yet).
 
 `OSA` employess 36 simple autoregressive methods to forecast number of state-based attacks across 32 countries.
 The question is "How do we know which method to choose for future prediction?"
