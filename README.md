@@ -1,4 +1,5 @@
 # Bake-Off
+![pie bake-off](https://github.com/josephjohnsonatgithub/Bake-Off/assets/13742349/f9a04052-00f9-486e-adb5-9c492f099e65)
 Explores process of selecting best methods for time series prediction in chaotic systems. The time-series are deaths by month due to state-based violence. They are acyclical and generally non-stationary. We focus on the use of validation sets to improve performance (no transformations, yet).
 
 `OSA` employess 36 simple autoregressive methods to forecast number of state-based attacks across 32 countries.
